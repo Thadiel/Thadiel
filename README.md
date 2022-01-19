@@ -1,2 +1,2 @@
 # Thadiel
-wait this isnt google
+Hey Welcome to my GitHub
